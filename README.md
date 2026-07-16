@@ -51,14 +51,29 @@ completion.
 
 ## Screenshots
 
-<!-- Add screenshots to the docs/ folder and reference them here, e.g.:
-![3D Downloader](docs/screenshot_downloader.png)
-![BOILED-Egg plot](docs/screenshot_boiledegg.png)
--->
+### Main window — 3D Downloader
 
-_(Add screenshots here.)_
+![3D Downloader tab](screenshots/main.png)
 
----
+### ADMET Predictor
+
+![ADMET Predictor tab](screenshots/admet.png)
+
+### Batch Converter
+
+![Batch Converter tab](screenshots/converter.png)
+
+### Screening
+
+![Similarity-based screening tab](screenshots/screening.png)
+
+### Analytics
+
+![Analytics tab](screenshots/analytics.png)
+
+### Molecular Docking
+
+![Molecular Docking tab](screenshots/docking.png)
 
 ## Requirements
 
